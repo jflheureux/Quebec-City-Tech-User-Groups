@@ -1,4 +1,4 @@
-# Quebec-City-Tech-User-Groups
+# Quebec City Tech User Groups
 List of Quebec City technical user groups for software developers
 
 | User Group                                                                      | Status   | 
