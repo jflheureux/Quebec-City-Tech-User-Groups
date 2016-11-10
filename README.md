@@ -9,6 +9,7 @@ List of Quebec City technical user groups for software developers
 | [Dev Drinks Quebec](https://www.facebook.com/devdrinksqc/)                      | Active   | 
 | [Docker Québec](http://www.meetup.com/Docker-Quebec-Meetup)                     | Active   | 
 | [DotNet Québec](http://www.meetup.com/DotNet-Quebec/)                           | Active   | 
+| [Groupe d'usagers SharePoint Québec](https://www.meetup.com/guspquebec/)        | Active   | 
 | [Huby](http://huby.co/)                                                         | Inactive | 
 | [LinuQ](https://linuq.org/)                                                     | Active   | 
 | [OpenCode](http://www.opencode.ca)                                              | Active   | 
