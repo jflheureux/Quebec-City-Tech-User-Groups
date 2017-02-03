@@ -16,5 +16,6 @@ List of Quebec City technical user groups for software developers
 | [LinuQ](https://linuq.org/)                                                     | Active   | 
 | [OpenCode](http://www.opencode.ca)                                              | Active   | 
 | [OWASP Quebec City](https://www.owasp.org/index.php/Quebec_City)                | Active   | 
+| [Kubernetes Quebec](https://www.meetup.com/Kubernetes-Quebec/)                  | Active   | 
 | [Sitecore User Group Quebec](http://www.meetup.com/Sitecore-User-Group-Quebec/) | Active   | 
 | [Tech Drinks Quebec](https://www.facebook.com/techdrinksqc/)                    | Active   | 
