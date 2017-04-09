@@ -14,7 +14,7 @@ List of Quebec City technical user groups for software developers
 | [Java Wave](http://www.eventbrite.ca/o/java-wave-12011851471)                   | Active   | 
 | [Huby](http://huby.co/)                                                         | Inactive | 
 | [LinuQ](https://linuq.org/)                                                     | Active   | 
-| [OpenCode](http://www.opencode.ca)                                              | Active   | 
+| [OpenCode](http://www.opencode.ca)                                              | Inactive | 
 | [OWASP Quebec City](https://www.owasp.org/index.php/Quebec_City)                | Active   | 
 | [Kubernetes Quebec](https://www.meetup.com/Kubernetes-Quebec/)                  | Active   | 
 | [Sitecore User Group Quebec](http://www.meetup.com/Sitecore-User-Group-Quebec/) | Active   | 
