@@ -19,3 +19,4 @@ List of Quebec City technical user groups for software developers
 | [Kubernetes Quebec](https://www.meetup.com/Kubernetes-Quebec/)                  | Active   | 
 | [Sitecore User Group Quebec](http://www.meetup.com/Sitecore-User-Group-Quebec/) | Active   | 
 | [Tech Drinks Quebec](https://www.facebook.com/techdrinksqc/)                    | Active   | 
+| [IGGG](http://www2.ift.ulaval.ca/~pgiguere/rgroup/readingGroup2015.html)        | Active   | 
