@@ -11,12 +11,12 @@ List of Quebec City technical user groups for software developers
 | [Docker Québec](http://www.meetup.com/Docker-Quebec-Meetup)                     | Active   | 
 | [DotNet Québec](http://www.meetup.com/DotNet-Quebec/)                           | Active   | 
 | [Groupe d'usagers SharePoint Québec](https://www.meetup.com/guspquebec/)        | Active   | 
-| [Java Wave](http://www.eventbrite.ca/o/java-wave-12011851471)                   | Active   | 
 | [Huby](http://huby.co/)                                                         | Inactive | 
+| [IGGG](http://www2.ift.ulaval.ca/~pgiguere/rgroup/readingGroup2015.html)        | Active   | 
+| [Java Wave](http://www.eventbrite.ca/o/java-wave-12011851471)                   | Active   | 
+| [Kubernetes Quebec](https://www.meetup.com/Kubernetes-Quebec/)                  | Active   | 
 | [LinuQ](https://linuq.org/)                                                     | Active   | 
 | [OpenCode](http://www.opencode.ca)                                              | Inactive | 
 | [OWASP Quebec City](https://www.owasp.org/index.php/Quebec_City)                | Active   | 
-| [Kubernetes Quebec](https://www.meetup.com/Kubernetes-Quebec/)                  | Active   | 
 | [Sitecore User Group Quebec](http://www.meetup.com/Sitecore-User-Group-Quebec/) | Active   | 
 | [Tech Drinks Quebec](https://www.facebook.com/techdrinksqc/)                    | Active   | 
-| [IGGG](http://www2.ift.ulaval.ca/~pgiguere/rgroup/readingGroup2015.html)        | Active   | 
