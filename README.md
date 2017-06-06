@@ -3,6 +3,7 @@ List of Quebec City technical user groups for software developers
 
 | User Group                                                                      | Status   | 
 |---------------------------------------------------------------------------------|----------| 
+|[Alexa Québec](https://www.meetup.com/AlexaQuebec/)                              | Active   | 
 | [Beer and Learn Québec](http://beer-learn.com)                                  | Active   | 
 | [Calcul Québec](http://www.calculquebec.ca/en/)                                 | Active   | 
 | [Communauté d'utilisateurs .NET de Québec](http://www.meetup.com/leCUNQ/)       | Inactive | 
