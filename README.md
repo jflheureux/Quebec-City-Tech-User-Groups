@@ -3,13 +3,14 @@ List of Quebec City technical user groups for software developers
 
 | User Group                                                                      | Status   | 
 |---------------------------------------------------------------------------------|----------| 
-|[Alexa Québec](https://www.meetup.com/AlexaQuebec/)                              | Active   | 
+| [Alexa Québec](https://www.meetup.com/AlexaQuebec/)                             | Active   | 
 | [Beer and Learn Québec](http://beer-learn.com)                                  | Active   | 
 | [Calcul Québec](http://www.calculquebec.ca/en/)                                 | Active   | 
 | [Communauté d'utilisateurs .NET de Québec](http://www.meetup.com/leCUNQ/)       | Inactive | 
 | [Communauté Microsoft Azure Québec](http://www.meetup.com/AzureQC/)             | Active   | 
 | [Dev Drinks Quebec](https://www.facebook.com/devdrinksqc/)                      | Active   | 
-| [Docker Québec](http://www.meetup.com/Docker-Quebec-Meetup)                     | Active   | 
+| [DigitalOcean Quebec](http://meetup.com/fr-FR/DigitalOceanQuebec/)              | Active   |
+| [Docker Québec](http://www.meetup.com/Docker-Quebec-Meetup)                     | Active   | 
 | [DotNet Québec](http://www.meetup.com/DotNet-Quebec/)                           | Active   | 
 | [Groupe d'usagers SharePoint Québec](https://www.meetup.com/guspquebec/)        | Active   | 
 | [Huby](http://huby.co/)                                                         | Inactive | 
