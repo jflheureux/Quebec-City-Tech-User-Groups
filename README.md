@@ -9,6 +9,7 @@ List of Quebec City technical user groups for software developers
 | [Communauté d'utilisateurs .NET de Québec](http://www.meetup.com/leCUNQ/)       | Inactive | 
 | [Communauté Microsoft Azure Québec](http://www.meetup.com/AzureQC/)             | Active   | 
 | [Dev Drinks Quebec](https://www.facebook.com/devdrinksqc/)                      | Active   | 
+| [Dev Quebec](https://www.meetup.com/Dev-Quebec-An-Open-Source-Conference/)      | Active   | 
 | [DigitalOcean Quebec](http://meetup.com/fr-FR/DigitalOceanQuebec/)              | Active   |
 | [Docker Québec](http://www.meetup.com/Docker-Quebec-Meetup)                     | Active   | 
 | [DotNet Québec](http://www.meetup.com/DotNet-Quebec/)                           | Active   | 
